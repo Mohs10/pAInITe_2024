@@ -3,11 +3,17 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.Mohs10.TestScripts.Register_Test">
+      <class name="com.Mohs10.TestScripts.HomePage_Login">
         <methods>
-          <include name="UserregisterTestCase"/>
+          <include name="browserSetup"/>
+          <include name="loadConfig"/>
+          <include name="methodName"/>
+          <include name="LoginTestCase"/>
+          <include name="afterSuite"/>
+          <include name="afterClass"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- com.Mohs10.TestScripts.Register_Test -->
+      </class> <!-- com.Mohs10.TestScripts.HomePage_Login -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

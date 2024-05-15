@@ -1,287 +1,870 @@
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-26 04:35:27.457 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-26 04:35:36.971 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-26 04:52:18.858 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-26 04:52:27.662 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-26 04:56:36.559 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-26 04:56:45.818 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-26 05:05:49.956 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-06-26 05:05:56.130 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-26 05:05:56.131 [main] Log - -----------This TC Will login with correct crendentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-06-26 05:06:18.617 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-26 05:06:33.279 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-26 05:18:51.544 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-06-26 05:18:57.135 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-26 05:18:57.136 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-06-26 05:19:10.497 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-26 05:20:15.195 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-26 18:29:29.459 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-26 18:29:52.720 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-27 22:55:14.394 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-27 22:57:05.105 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-27 22:58:42.445 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-06-27 22:58:50.571 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-27 22:58:50.572 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-06-27 22:59:05.760 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-27 23:09:48.567 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-06-27 23:09:53.746 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-27 23:09:53.747 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-06-27 23:10:07.201 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-27 23:13:21.649 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-30 11:22:29.923 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-06-30 11:22:40.971 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-30 11:22:40.972 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-06-30 11:22:56.486 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-06-30 11:33:37.392 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-03 11:57:40.787 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-03 11:57:49.575 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-03 11:57:49.575 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-07-03 11:58:05.707 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-03 12:08:40.979 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-03 19:26:26.672 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-03 19:26:27.541 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-03 19:51:56.244 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-03 19:52:16.784 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-03 19:56:19.278 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-03 19:56:35.457 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-03 20:02:27.846 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-03 20:02:28.717 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-03 20:02:46.050 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-03 20:03:02.211 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-05 10:40:53.787 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-05 10:41:03.572 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-05 10:41:03.573 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-07-05 10:41:20.486 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-05 10:52:30.587 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 14:34:32.417 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 14:34:51.914 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 15:17:15.256 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 15:26:29.026 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 18:54:34.023 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 18:56:58.760 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 19:03:55.622 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 19:07:12.874 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 19:10:17.606 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-06 19:10:24.933 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 19:10:24.935 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-07-06 19:10:38.831 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 19:14:35.875 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 19:59:18.116 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 20:05:30.017 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 20:09:25.534 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 20:09:26.461 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 20:22:37.230 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 20:23:06.320 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 20:24:39.646 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 20:25:07.712 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 20:34:16.825 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-06 20:34:22.560 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 20:34:22.560 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-07-06 20:34:38.076 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 20:35:45.390 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 20:48:13.012 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-06 20:48:18.487 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 20:48:18.488 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-07-06 20:48:33.184 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 20:49:43.195 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 20:51:02.361 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-06 20:51:07.724 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 20:51:07.725 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-07-06 20:51:21.742 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 20:52:31.852 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 21:08:21.348 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-06 21:08:27.110 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 21:08:27.111 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-07-06 21:08:42.362 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 21:28:41.874 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 23:43:53.907 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-06 23:44:01.761 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-06 23:44:01.762 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-07-06 23:44:17.342 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 00:04:15.340 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 00:14:42.300 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-07 00:14:47.772 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 00:14:47.773 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 00:32:29.261 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-07 00:32:34.120 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 00:32:34.121 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-07-07 00:32:47.003 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 00:39:16.527 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-07 00:39:21.136 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 00:39:21.137 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-07-07 00:39:34.381 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 00:58:54.332 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 01:12:48.826 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-07 01:12:54.774 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 01:12:54.774 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 01:16:07.660 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 01:17:34.473 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-07 01:17:39.425 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 01:17:39.426 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-07-07 01:17:51.939 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 01:25:40.527 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-07 01:25:45.949 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 01:25:45.950 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-07-07 01:26:00.152 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 01:37:16.161 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 01:38:40.326 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-07 01:38:45.065 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 01:38:45.065 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-07-07 01:38:58.652 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 01:55:55.080 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 01:58:20.285 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-07 02:14:20.937 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-10 15:42:11.131 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-10 15:42:55.507 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-10 17:22:05.997 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-10 17:40:31.014 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-11 11:21:37.234 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-11 13:40:20.353 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-11 13:41:01.906 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-11 13:42:32.055 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-11 13:44:58.672 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-11 13:45:10.526 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-11 13:45:10.527 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-07-11 13:45:25.216 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-11 13:55:47.781 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-14 16:26:38.668 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-14 16:26:51.501 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-14 16:26:51.502 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-07-14 16:27:12.812 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-14 16:28:09.288 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-14 16:37:08.576 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-14 16:37:11.106 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-14 16:41:45.571 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-14 16:41:52.219 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-14 16:41:52.220 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-14 16:42:09.001 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-14 16:56:19.476 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-14 16:56:26.303 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-14 16:56:26.304 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-14 17:07:13.622 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-14 17:07:20.047 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-14 17:07:20.048 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-14 17:08:07.084 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-07-14 17:08:13.265 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-14 17:08:13.265 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-14 17:08:39.728 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-20 13:14:42.680 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-20 13:15:04.014 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-20 13:16:01.946 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-20 13:16:08.073 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-25 15:34:01.946 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-07-25 15:34:07.820 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 16:27:07.698 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 16:30:34.035 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 16:39:49.884 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 16:40:51.150 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 16:43:34.478 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 16:47:29.279 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 16:50:37.238 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 16:55:28.899 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 16:56:09.416 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 16:56:30.224 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 16:59:33.242 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 17:02:48.170 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 17:05:51.721 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 17:16:06.415 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 17:16:09.319 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 17:18:51.387 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-08 17:18:59.208 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 17:18:59.211 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 17:19:16.439 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 17:23:06.181 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-08 17:23:11.420 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 17:23:11.421 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-08 17:23:42.008 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 17:23:42.009 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-08 17:24:37.384 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 17:24:37.388 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 17:25:05.803 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 17:32:54.021 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-08 17:33:10.651 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 17:33:10.652 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 17:33:27.807 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 17:35:17.022 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-08 17:35:21.875 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 17:35:21.878 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 17:35:37.024 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 19:19:57.245 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-08 19:20:03.711 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 19:20:03.714 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 19:20:58.112 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-08 19:21:03.165 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 19:21:03.166 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 19:24:35.517 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-08 19:24:39.116 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 19:24:39.118 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 19:37:42.455 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-08 19:37:47.952 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 19:37:47.952 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-08-08 19:38:01.748 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-08 19:40:43.126 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 19:40:43.127 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-08-08 19:40:55.551 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-08 19:45:45.309 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 17:50:48.781 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-09 17:50:54.516 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 17:50:54.517 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-08-09 17:51:09.985 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-09 17:52:04.809 [main] Log - =====================================---------------------------------Register Test Case with positive values--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 17:52:04.809 [main] Log - -----------This TC Will register with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 17:52:20.289 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 18:19:33.927 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-09 18:19:38.010 [main] Log - =====================================---------------------------------Register Test Case with positive values--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 18:19:38.012 [main] Log - -----------This TC Will register with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 18:19:57.877 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 18:34:49.475 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-09 18:34:52.955 [main] Log - =====================================---------------------------------Register Test Case with positive values--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 18:34:52.956 [main] Log - -----------This TC Will register with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 18:35:13.118 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 18:36:16.144 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-09 18:36:19.922 [main] Log - =====================================---------------------------------Register Test Case with positive values--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 18:36:19.923 [main] Log - -----------This TC Will register with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 18:38:41.397 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-09 18:38:46.193 [main] Log - =====================================---------------------------------Register Test Case with positive values--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 18:38:46.194 [main] Log - -----------This TC Will register with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:22:07.035 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-09 19:22:11.988 [main] Log - =====================================---------------------------------Register Test Case with positive values--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:22:11.989 [main] Log - -----------This TC Will register with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:22:32.298 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:23:46.260 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-09 19:23:50.789 [main] Log - =====================================---------------------------------Register Test Case with positive values--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:23:50.790 [main] Log - -----------This TC Will register with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-08-09 19:24:08.266 [main] Log - =====================================---------------------------------End of Register Test Case with Positive values--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:24:09.422 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:26:27.282 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-09 19:26:31.328 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:26:31.330 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-08-09 19:26:45.245 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-09 19:27:39.292 [main] Log - =====================================---------------------------------Register Test Case with positive values--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:27:39.292 [main] Log - -----------This TC Will register with correct credentials-----------sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:27:58.645 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:31:43.328 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-09 19:31:47.085 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:31:47.085 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-08-09 19:32:01.174 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-09 19:32:54.789 [main] Log - =====================================---------------------------------Register Test Case with positive values--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:32:54.790 [main] Log - -----------This TC Will register with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-08-09 19:33:09.041 [main] Log - =====================================---------------------------------End of Register Test Case with Positive values--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:33:10.986 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:44:49.731 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:44:50.726 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:46:54.705 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:46:55.492 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:47:08.427 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:47:09.266 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:47:49.084 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:47:50.280 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:49:52.802 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-09 19:49:57.245 [main] Log - =====================================---------------------------------Positive Login Test Case--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:49:57.245 [main] Log - -----------This TC Will login with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-08-09 19:50:10.852 [main] Log - =====================================---------------------------------End of Positive Login Test Case--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.startTestCase(Log.java:12)evel] 2023-08-09 19:51:05.453 [main] Log - =====================================---------------------------------Register Test Case with positive values--------------------------------- TEST START=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:51:05.454 [main] Log - -----------This TC Will register with correct credentials-----------sg
-[com.Mohs10.utility.Log.endTestCase(Log.java:16)evel] 2023-08-09 19:51:19.365 [main] Log - =====================================---------------------------------End of Register Test Case with Positive values--------------------------------- TEST END=========================================sg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:52:08.027 [main] Log - This is After Suite Methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:55:58.290 [main] Log - This is before test methodsg
-[com.Mohs10.utility.Log.info(Log.java:23)evel] 2023-08-09 19:55:59.659 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:54:47.421 [main] Log - This is before test methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:54:47.479 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:54:52.118 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-04 12:54:52.500 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:54:52.500 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-04 12:55:04.437 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:55:04.554 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:55:04.749 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:55:06.513 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:55:16.994 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:55:17.940 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:55:23.386 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-04 12:55:23.418 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:55:23.419 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-04 12:55:34.345 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:55:34.429 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:55:35.702 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:55:39.426 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:55:39.883 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:55:41.226 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:57:11.710 [main] Log - This is before test methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:57:11.763 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:57:15.636 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:57:26.911 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:57:27.979 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:57:31.540 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:57:31.954 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-04 12:57:33.143 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:09:49.345 [main] Log - This is before test methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:09:49.399 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:09:56.192 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:10:18.486 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:10:19.524 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:10:26.641 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:10:47.612 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:10:49.198 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:11:32.631 [main] Log - This is before test methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:11:32.685 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:11:36.797 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-05 00:11:37.194 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:11:37.194 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-05 00:11:49.708 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:11:49.858 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:11:50.337 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:11:53.144 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:12:14.317 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:12:15.580 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:12:20.144 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:12:41.149 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:12:42.566 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:15:09.680 [main] Log - This is before test methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:15:09.719 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:15:13.465 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-05 00:15:13.796 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:15:13.797 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-05 00:15:25.613 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:15:25.741 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:15:26.087 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:15:28.219 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:15:49.457 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:15:50.703 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:15:54.690 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:16:15.511 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:16:16.903 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:36:34.169 [main] Log - This is before test methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:36:34.215 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:36:37.838 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-05 00:36:38.179 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:36:38.179 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-05 00:36:49.728 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:36:50.155 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:36:50.454 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:36:52.567 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:37:13.808 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:37:14.984 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:37:19.560 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:37:40.629 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:37:41.814 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:44:51.497 [main] Log - This is before test methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:44:51.544 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:44:55.694 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-05 00:44:55.996 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:44:55.997 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-05 00:45:07.488 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:45:07.828 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:45:08.127 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:45:10.604 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:45:31.818 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:45:33.003 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:51:50.412 [main] Log - This is before test methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:51:50.479 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:51:53.667 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-05 00:51:53.976 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:51:53.977 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-05 00:52:05.590 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:52:05.962 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:52:06.257 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:52:08.373 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:52:29.483 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:52:30.582 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:54:15.896 [main] Log - This is before test methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:54:15.936 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:54:19.251 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-05 00:54:19.546 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:54:19.546 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-05 00:54:31.053 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:54:31.630 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:54:32.773 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:54:34.904 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:54:56.700 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:54:58.236 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:57:07.799 [main] Log - This is before test methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:57:07.847 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:57:11.648 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-05 00:57:11.987 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:57:11.987 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-05 00:57:23.998 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:57:24.325 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:57:24.568 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:57:26.349 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:57:47.568 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:57:48.642 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:59:33.306 [main] Log - This is before test methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:59:33.368 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:59:36.768 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-05 00:59:37.057 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:59:37.057 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-05 00:59:48.676 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:59:49.030 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:59:49.254 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 00:59:51.106 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:00:12.232 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:00:13.296 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:06:55.343 [main] Log - This is before test methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:06:55.395 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:06:58.953 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-05 01:06:59.384 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:06:59.385 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-05 01:07:11.256 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:07:11.550 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:07:11.797 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:07:13.612 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:07:34.933 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:07:36.004 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:11:03.177 [main] Log - This is before test methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:11:03.234 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:11:06.600 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-05 01:11:06.897 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:11:06.898 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-05 01:11:18.530 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:11:18.854 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:11:19.139 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:11:21.044 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:11:42.414 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:11:43.487 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:20:47.836 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:20:51.063 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-05 01:20:51.381 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:20:51.382 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-05 01:21:02.906 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:21:03.275 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:21:03.539 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:21:05.376 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:21:26.567 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 01:21:27.624 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:14:00.280 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:14:04.971 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-05 02:14:05.341 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:14:05.341 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-05 02:14:17.419 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:14:17.754 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:14:17.979 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:14:19.781 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:14:41.059 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:14:42.302 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:16:55.358 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:16:58.429 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-05 02:16:58.716 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:16:58.717 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-05 02:17:10.126 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:17:10.419 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:17:10.647 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:17:12.828 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:17:44.021 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:17:45.045 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:17:50.397 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:18:21.361 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:18:23.071 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:18:26.193 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:18:57.258 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:18:57.760 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:30:45.448 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:30:49.073 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-05 02:30:49.373 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:30:49.373 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-05 02:31:00.947 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:31:01.303 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:31:01.550 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:31:03.332 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:31:24.430 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:31:25.412 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:31:29.371 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:31:50.243 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:31:51.328 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:31:53.384 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:32:14.447 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-05 02:32:14.840 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 13:17:44.191 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 13:17:50.777 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 13:17:51.030 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 13:17:51.031 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 13:18:02.543 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 13:18:04.610 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:15:49.484 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:15:54.246 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 14:15:54.482 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:15:54.482 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 14:16:05.939 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:16:06.215 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:16:07.602 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:22:05.838 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:22:11.049 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 14:22:11.291 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:22:11.292 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 14:22:22.509 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:22:22.777 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:22:24.294 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:22:56.246 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:22:59.974 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 14:23:00.217 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:23:00.218 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 14:23:11.465 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:23:11.726 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:23:13.273 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:38:48.951 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:38:53.111 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 14:38:53.304 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:38:53.305 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 14:39:04.604 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:39:04.846 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:39:05.094 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:39:07.191 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:39:17.712 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:39:18.585 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:39:24.739 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 14:39:24.752 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:39:24.770 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 14:39:35.671 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:39:35.826 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:39:37.243 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:39:42.481 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:39:54.720 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:39:56.351 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:39:59.247 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:40:03.624 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:40:35.985 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:40:36.450 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:42:17.799 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:42:22.233 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 14:42:22.465 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:42:22.465 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 14:42:33.491 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:42:33.797 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:42:34.102 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:42:36.039 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:43:08.445 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:43:09.405 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:43:14.582 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 14:43:14.593 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:43:14.594 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 14:43:25.814 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:43:25.944 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:43:27.350 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:43:31.466 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:44:03.858 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:44:06.077 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:44:10.375 [main] Log - Executing test method: LoginTestCase on browser: Edgesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 14:44:10.387 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:44:10.387 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 14:44:20.602 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:44:20.798 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:44:21.197 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:44:25.312 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:44:57.788 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:44:58.316 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:54:19.644 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:54:23.308 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 14:54:23.537 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:54:23.537 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 14:54:36.473 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:54:36.748 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:54:37.061 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:54:39.092 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:55:11.899 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:55:13.030 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:55:18.924 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 14:55:18.939 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:55:18.939 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 14:55:29.797 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:55:29.980 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:55:31.911 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:55:37.377 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:56:19.630 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:56:21.327 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:56:24.306 [main] Log - Executing test method: LoginTestCase on browser: Edgesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 14:56:24.315 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:56:24.315 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 14:56:34.880 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:56:35.140 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:56:35.632 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:56:37.982 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:57:30.535 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 14:57:31.014 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:06:47.765 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:06:51.344 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 15:06:51.530 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:06:51.530 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 15:07:02.454 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:07:02.871 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:07:03.141 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:07:05.024 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:08:07.794 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:08:08.838 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:08:13.519 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 15:08:13.529 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:08:13.530 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 15:08:24.320 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:08:24.473 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:08:25.744 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:08:30.005 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:09:32.316 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:09:33.905 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:09:36.818 [main] Log - Executing test method: LoginTestCase on browser: Edgesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 15:09:36.827 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:09:36.828 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 15:09:46.834 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:09:47.068 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:09:47.469 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:09:49.590 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:10:52.532 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:10:53.025 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:43:37.085 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:43:40.915 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 15:43:41.117 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:43:41.118 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 15:43:52.077 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:43:52.332 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:43:52.559 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:43:54.393 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:44:57.241 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:44:58.336 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:45:04.285 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 15:45:04.304 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:45:04.304 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 15:45:15.126 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:45:15.255 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:45:16.749 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:45:20.965 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:46:22.862 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:46:24.094 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:46:26.354 [main] Log - Executing test method: LoginTestCase on browser: Edgesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 15:46:26.368 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:46:26.369 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 15:46:36.628 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:46:36.865 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:46:37.228 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:46:39.322 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:47:42.055 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:47:42.454 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:53:41.455 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:53:44.902 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 15:53:45.079 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:53:45.080 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 15:53:56.047 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:53:56.303 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:53:56.536 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:53:58.473 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:54:19.528 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:54:20.864 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:54:25.033 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 15:54:25.048 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:54:25.049 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 15:54:35.423 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:54:35.537 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:54:36.800 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:54:40.716 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:54:51.623 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:54:53.069 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:54:55.012 [main] Log - Executing test method: LoginTestCase on browser: Edgesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 15:54:55.025 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:54:55.025 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 15:55:04.965 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:55:05.223 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:55:05.541 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:55:07.858 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:55:19.226 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:55:19.764 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:58:08.460 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:58:12.023 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 15:58:12.230 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:58:12.231 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 15:58:23.189 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:58:23.468 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:58:23.775 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:58:25.692 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:58:58.007 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:58:59.108 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:59:03.617 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 15:59:03.626 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:59:03.626 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 15:59:13.935 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:59:14.111 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:59:15.410 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 15:59:19.510 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:00:01.546 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:00:02.941 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:00:05.534 [main] Log - Executing test method: LoginTestCase on browser: Edgesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 16:00:05.580 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:00:05.580 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 16:00:16.461 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:00:16.713 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:00:17.157 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:00:19.460 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:01:12.115 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:01:12.577 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:06:03.428 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:06:08.193 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 16:06:08.448 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:06:08.448 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 16:06:19.677 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:06:19.935 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:06:20.173 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:06:22.204 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:07:25.050 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:07:26.474 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:07:32.403 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 16:07:32.416 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:07:32.417 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 16:07:42.869 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:07:43.011 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:07:44.394 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:07:48.498 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:08:50.385 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:08:51.893 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:08:55.029 [main] Log - Executing test method: LoginTestCase on browser: Edgesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 16:08:55.052 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:08:55.054 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 16:09:05.129 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:09:05.388 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:09:05.856 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:09:08.323 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:10:11.098 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:10:11.677 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:14:54.341 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:14:58.605 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 16:14:58.840 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:14:58.840 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 16:15:09.641 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:15:09.871 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:15:10.118 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:15:12.007 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:16:14.869 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:16:16.049 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:16:20.827 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 16:16:20.837 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:16:20.838 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 16:16:31.589 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:16:31.768 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:16:33.368 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:16:38.272 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:17:40.390 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:17:42.473 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:17:46.088 [main] Log - Executing test method: LoginTestCase on browser: Edgesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 16:17:46.098 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:17:46.098 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 16:17:56.884 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:17:57.133 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:17:57.740 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:18:00.825 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:19:03.924 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 16:19:04.383 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:32:57.874 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:33:03.009 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 17:33:03.200 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:33:03.200 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 17:33:15.137 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:33:15.416 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:33:15.701 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:33:17.751 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:34:21.832 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:34:23.725 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:34:29.477 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 17:34:29.508 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:34:29.508 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 17:34:40.292 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:34:40.487 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:34:42.036 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:34:47.871 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:35:49.957 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:35:51.363 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:35:54.767 [main] Log - Executing test method: LoginTestCase on browser: Edgesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 17:35:54.781 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:35:54.782 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 17:36:05.420 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:36:05.667 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:36:06.722 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:36:09.290 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:41:27.082 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:41:31.152 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 17:41:31.352 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:41:31.353 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 17:41:41.973 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:41:42.244 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:41:42.514 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:41:44.527 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:42:27.591 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:42:28.969 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:42:34.612 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 17:42:34.634 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:42:34.635 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 17:42:44.820 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:42:44.977 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:42:46.217 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:42:49.902 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:43:32.391 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:43:34.412 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:43:37.236 [main] Log - Executing test method: LoginTestCase on browser: Edgesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 17:43:37.249 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:43:37.249 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 17:43:47.372 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:43:47.572 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:43:47.881 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:43:50.017 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:44:32.670 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 17:44:33.098 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:04:08.461 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:04:12.253 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 18:04:12.446 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:04:12.447 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 18:04:22.962 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:04:23.230 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:04:23.482 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:04:25.308 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:05:27.843 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:05:28.983 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:05:33.833 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 18:05:33.844 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:05:33.845 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 18:05:44.414 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:05:44.570 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:05:45.870 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:05:49.416 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:06:51.431 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:06:52.728 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:06:54.849 [main] Log - Executing test method: LoginTestCase on browser: Edgesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 18:06:54.861 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:06:54.863 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 18:07:04.858 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:07:05.073 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:07:05.569 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:07:07.675 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:08:09.991 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:08:10.374 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:10:49.332 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:10:52.446 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 18:10:52.634 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:10:52.634 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 18:11:03.720 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:11:04.002 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:11:04.289 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:11:06.272 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:12:08.766 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:12:09.888 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:12:14.116 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 18:12:14.131 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:12:14.132 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 18:12:24.490 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:12:24.638 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:12:25.937 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:12:29.507 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:13:31.069 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:13:32.311 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:13:34.209 [main] Log - Executing test method: LoginTestCase on browser: Edgesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-07 18:13:34.217 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:13:34.218 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-07 18:13:44.247 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:13:44.445 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:13:44.817 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:13:46.913 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:14:49.256 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-07 18:14:49.641 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:37:37.730 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:37:42.251 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-08 12:37:42.487 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:37:42.488 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-08 12:37:54.542 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:37:54.873 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:37:55.188 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:37:57.221 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:39:00.202 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:39:01.448 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:39:03.532 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:39:11.808 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:40:14.467 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:40:16.170 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:40:19.205 [main] Log - Executing test method: LoginTestCase on browser: Edgesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-08 12:40:19.227 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:40:19.228 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-08 12:40:29.647 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:40:29.904 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:40:30.319 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:40:32.719 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:41:15.744 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:41:16.115 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:42:47.733 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:42:51.439 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-08 12:42:51.688 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:42:51.689 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-08 12:43:02.371 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:43:02.697 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:43:02.943 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:43:04.895 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:43:48.154 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:43:49.259 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:43:54.022 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-08 12:43:54.029 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:43:54.030 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-08 12:44:04.656 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:44:04.824 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:44:06.158 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:44:10.378 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:44:53.524 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:44:55.109 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:44:58.669 [main] Log - Executing test method: LoginTestCase on browser: Edgesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-08 12:44:58.684 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:44:58.685 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-08 12:45:08.679 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:45:09.001 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:45:09.517 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:45:12.583 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:46:20.102 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:46:23.803 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-08 12:46:23.976 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:46:23.977 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-08 12:46:34.366 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:46:34.573 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:46:34.843 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:46:36.810 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:47:39.275 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:47:40.373 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:47:44.747 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-08 12:47:44.764 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:47:44.765 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-08 12:47:55.195 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:47:55.368 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:47:57.009 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 12:48:01.117 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:12:33.711 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:12:59.793 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:13:04.469 [main] Log - Executing test method: LoginTestCase on browser: Edgesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-08 13:13:04.752 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:13:04.753 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-08 13:13:16.037 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:13:16.328 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:13:16.626 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:13:18.682 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:13:29.463 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:13:30.780 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:14:05.146 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:14:09.100 [main] Log - Executing test method: LoginTestCase on browser: Edgesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-08 13:14:09.376 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:14:09.377 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-08 13:14:20.018 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:14:20.519 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:14:20.889 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:14:23.171 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:15:26.132 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:15:27.197 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:26:51.932 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:26:56.154 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-08 13:26:56.353 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:26:56.353 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-08 13:27:06.674 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:27:06.940 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:27:07.201 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:27:09.092 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:28:11.680 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:28:13.488 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:28:18.355 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-08 13:28:18.364 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:28:18.364 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-08 13:28:28.556 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:28:28.736 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:28:30.660 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:28:34.638 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:29:36.625 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:29:38.281 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:29:40.297 [main] Log - Executing test method: LoginTestCase on browser: Edgesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-08 13:29:40.308 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:29:40.309 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-08 13:29:50.419 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:29:50.650 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:29:51.037 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:29:53.384 [main] Log - Executing test method: PDFreports on browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:30:55.833 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:30:56.235 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:31:52.731 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:31:56.183 [main] Log - Executing test method: LoginTestCase on browser: chromesg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-08 13:31:56.379 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:31:56.379 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-08 13:32:07.101 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:32:07.357 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:32:07.612 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:32:09.530 [main] Log - Executing test method: PDFreports on browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:33:12.184 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:33:13.294 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:33:17.728 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.startTestCase(Log.java:11)evel] 2023-12-08 13:33:17.737 [main] Log - ====Positive Login Test Case----- TEST START====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:33:17.737 [main] Log - --Test Scenario login with correct credentials---sg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2023-12-08 13:33:27.848 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:33:27.961 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:33:29.437 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2023-12-08 13:33:33.376 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 16:12:29.990 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 16:30:20.930 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 16:34:53.361 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 16:39:21.409 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 16:41:56.147 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 16:44:57.297 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 16:53:28.043 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 16:56:29.738 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 16:59:29.843 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 16:59:32.622 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 16:59:33.794 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 16:59:37.602 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 16:59:40.391 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 17:12:35.183 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 17:13:42.705 [main] Log - Setting up browser: edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 17:13:47.484 [main] Log - Setting up browser: edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 17:13:49.799 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 17:15:25.530 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 17:15:28.802 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 17:15:31.262 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 17:20:51.087 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 17:23:52.919 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 17:26:53.693 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 17:30:40.573 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 17:33:41.703 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-02 17:36:43.594 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 13:38:49.653 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 13:38:51.229 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 13:38:51.786 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 13:38:51.829 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 13:38:51.932 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 13:38:51.986 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 13:38:52.108 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 13:42:46.344 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 13:45:47.790 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 13:48:48.413 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 13:48:51.739 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 13:48:52.827 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 13:48:55.814 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 13:48:57.900 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 16:20:44.382 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 16:23:46.692 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 16:26:47.450 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 16:26:52.380 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 16:26:53.610 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 16:26:56.799 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 16:26:59.027 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 16:49:29.980 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 16:49:32.242 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 16:49:33.457 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 16:57:42.453 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 16:57:47.948 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 16:57:50.169 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:01:03.807 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:01:09.723 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:01:12.839 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:05:05.107 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:05:51.576 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2024-05-03 17:06:34.941 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:06:37.840 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:06:42.034 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:07:23.053 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:08:14.223 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:08:25.731 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2024-05-03 17:08:41.927 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:08:42.406 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:08:46.255 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:08:53.081 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:09:59.561 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:10:02.620 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:23:45.026 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:24:02.177 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2024-05-03 17:24:27.747 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:24:29.769 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:24:32.316 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:24:38.392 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:41:11.102 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:41:17.016 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2024-05-03 17:41:29.454 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:41:30.255 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:41:31.989 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:41:35.591 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:42:38.939 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 17:42:40.728 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 18:31:43.422 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 18:31:51.089 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2024-05-03 18:32:03.321 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 18:32:03.786 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 18:32:05.072 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 18:32:08.957 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 18:33:11.082 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 18:33:12.518 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 18:38:00.751 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 18:38:04.760 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2024-05-03 18:38:15.826 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 18:38:16.083 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 18:38:17.111 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 18:38:21.216 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 18:50:18.949 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 18:50:22.948 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2024-05-03 18:50:33.462 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 18:50:33.756 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 18:50:34.774 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-03 18:50:38.181 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 11:48:33.605 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 11:48:35.105 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 11:48:35.744 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 11:57:14.158 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 11:57:23.436 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2024-05-06 11:57:41.527 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 11:57:42.307 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 11:57:44.824 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 11:57:49.845 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:07:58.414 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:08:04.167 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2024-05-06 12:08:17.619 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:08:17.958 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:08:20.704 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:08:26.909 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:09:29.321 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:09:31.970 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:25:13.953 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:25:31.946 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2024-05-06 12:25:46.507 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:25:47.037 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:25:51.001 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:26:00.345 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:49:47.933 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:52:48.955 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:55:49.531 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:55:52.873 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2024-05-06 12:56:05.426 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:56:05.678 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:56:06.938 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-06 12:56:12.002 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-08 14:02:24.351 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-08 14:05:25.566 [main] Log - Setting up browser: chromesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-08 14:08:26.102 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-08 14:08:33.613 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2024-05-08 14:08:47.941 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-08 14:08:48.388 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-08 14:08:50.156 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-08 14:08:56.585 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-08 14:09:43.405 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-08 14:09:45.911 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-08 14:09:50.293 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-08 14:09:51.997 [main] Log - This is After Suite Methodsg

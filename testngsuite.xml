@@ -1,21 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Suite"><!-- Suite -->
+<suite name="Sample"> 
 
-	<listeners>
-		<listener class-name="com.Mohs10.utility.ListenerClass" />
-		<listener class-name="com.Mohs10.utility.TestallureListener" />
-	</listeners>
+	<listeners> 
+		 <listener class-name="com.Mohs10.utility.ListenerClass" /> 
+		 <listener class-name="com.Mohs10.utility.TestallureListener" />
+		 <listener class-name="com.Mohs10.JiraUtil.TestJiraListeners" /> 
+	 </listeners> 
 
-	<test name="Test_All" thread-count="5">
-		<parameter name="browser" value="Chrome" />
+
+	<!--   The sequence of browser name in xml file should be chrome, firefox and
+	Edge-->
+
+	<test name="TestNG_Report1">
+		<parameter name="browser" value="chrome" />
 
 		<classes>
 			<class name="com.Mohs10.TestScripts.HomePage_Login" />
-			<class name="com.Mohs10.TestScripts.Register_Test" />
-			<class name="com.Mohs10.Reports.PDFReportTest" />
-			<class name="com.Mohs10.Dashboard.TablesTest" />
+			<!--						<class name="com.Mohs10.TestScripts.Register_Test" />-->
+			<!--						<class name="com.Mohs10.Reports.PDFReportTest" />-->
+			<!--						<class name="com.Mohs10.Dashboard.TablesTest" />-->
+			<!--						<class name="com.Mohs10.TestScripts.ValidateTitleAndLogo"/>-->
+			<class name="com.Mohs10.Reports.New_PDF_Report" />
 		</classes>
+	</test>
+	
+	
+	<test name="TestNG_Report2">
+		<parameter name="browser" value="firefox" />
 
-	</test><!--Test -->
+		<classes>
+			<class name="com.Mohs10.TestScripts.HomePage_Login" />
+			<!--						<class name="com.Mohs10.TestScripts.Register_Test" />-->
+			<!--						<class name="com.Mohs10.Reports.PDFReportTest" />-->
+			<!--						<class name="com.Mohs10.Dashboard.TablesTest" />-->
+			<!--						<class name="com.Mohs10.TestScripts.ValidateTitleAndLogo"/>-->
+			<class name="com.Mohs10.Reports.New_PDF_Report" />
+		</classes>
+	</test>
+	
+	
+	<test name="TestNG_Report3">
+		<parameter name="browser" value="Edge" />
+
+		<classes>
+			<class name="com.Mohs10.TestScripts.HomePage_Login" />
+			<!--						<class name="com.Mohs10.TestScripts.Register_Test" />-->
+			<!--						<class name="com.Mohs10.Reports.PDFReportTest" />-->
+			<!--						<class name="com.Mohs10.Dashboard.TablesTest" />-->
+			<!--						<class name="com.Mohs10.TestScripts.ValidateTitleAndLogo"/>-->
+			<class name="com.Mohs10.Reports.New_PDF_Report" />
+		</classes>
+	</test>
+	
+	
+	
 </suite>

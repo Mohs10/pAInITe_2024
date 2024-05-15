@@ -46,7 +46,8 @@ public class PDFReportTest extends StartBrowser {
 		String M10logo = "Logo\\M10logo.png";
 		String Screenshotspath ="screenShots//";
 		// for loop add try
-		String htmlpath="test-output/Suite/ChromeTest.html";
+		//String htmlpath="test-output/Suite/Test_All.html";
+		String htmlpath="test-output/Suite/TestNG_Report1.html";
 		File filee=new File(htmlpath);
 		System.out.println("Absolute Path: " + filee.getAbsolutePath());
 		String HTMLPath = filee.getAbsolutePath();
@@ -102,7 +103,7 @@ public class PDFReportTest extends StartBrowser {
       										///Table-0 (Automation Report)///
     float [] pointColumnWidths = {260f, 260f};                                                	//fixing table dimension(columns)
     Table table = new Table(pointColumnWidths).setBorder(new SolidBorder(Color.BLACK, 1)).setBackgroundColor(Color.LIGHT_GRAY);													//Creating Table-0
-    Text text = new Text("Automation Test Report");  											//making title "automation report"
+    Text text = new Text("Automation Report Summary");  											//making title "automation report"
     text.setFont(PdfFontFactory.createFont(FontConstants.TIMES_ROMAN)).setBold().setFontSize(18).setFontColor(Color.BLUE).setUnderline().setTextAlignment(TextAlignment.RIGHT);
     Paragraph para = new Paragraph(text);    													//adding title to paragraph
     document.add(para);																			//adding paragraph to document
@@ -184,7 +185,7 @@ String[] ls=file.list();																		//adding images in array
 
 	float [] pointColumnWidths4 = {260f, 260f};
 	Table table4 = new Table(pointColumnWidths4);
-	Text text4 = new Text("Results with Screenshots");
+	Text text4 = new Text("Screenshots");
 	text4.setFont(PdfFontFactory.createFont(FontConstants.TIMES_ROMAN)).setBold().setFontSize(18).setFontColor(Color.BLUE).setUnderline().setTextAlignment(TextAlignment.RIGHT);
 	Paragraph para5 = new Paragraph(text4);
 	document.add(para5);

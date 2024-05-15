@@ -15,7 +15,8 @@
 			<version>1.7.36</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-params -->
+		<!--
+		https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-params -->
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
 			<artifactId>junit-jupiter-params</artifactId>
@@ -28,7 +29,7 @@
 		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
-			<version>7.4.0</version>
+			<version>7.10.2</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/javax.xml.parsers/jaxp-api -->
@@ -45,24 +46,28 @@
 			<version>2.0.1</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/com.github.stephenc.monte/monte-screen-recorder -->
+		<!--
+		https://mvnrepository.com/artifact/com.github.stephenc.monte/monte-screen-recorder -->
 		<dependency>
 			<groupId>com.github.stephenc.monte</groupId>
 			<artifactId>monte-screen-recorder</artifactId>
 			<version>0.7.7.0</version>
 		</dependency>
 
-		<!-- Please Keep the selenium-java, selenium-server and selenium-api versions 
+		<!-- Please Keep the selenium-java, selenium-server and selenium-api
+		versions 
 			same -->
 
-		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+		<!--
+		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
 			<version>4.11.0</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-api -->
+		<!--
+		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-api -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-api</artifactId>
@@ -71,18 +76,18 @@
 
 
 		<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
-<!--		<dependency>-->
-<!--			<groupId>io.github.bonigarcia</groupId>-->
-<!--			<artifactId>webdrivermanager</artifactId>-->
-<!--			<version>5.4.0</version>-->
-<!--		</dependency>-->
+				<dependency>
+					<groupId>io.github.bonigarcia</groupId>
+					<artifactId>webdrivermanager</artifactId>
+					<version>5.4.0</version>
+				</dependency>
 
 
 		<!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
 		<dependency>
 			<groupId>com.aventstack</groupId>
 			<artifactId>extentreports</artifactId>
-			<version>5.0.9</version>
+			<version>5.1.1</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/com.codoid.products/fillo -->
@@ -222,14 +227,16 @@
 		</dependency>
 
 
-		<!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-jcl -->
+		<!--
+		https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-jcl -->
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
 			<artifactId>log4j-jcl</artifactId>
 			<version>2.20.0</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-htmlunit-driver -->
+		<!--
+		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-htmlunit-driver -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-htmlunit-driver</artifactId>
@@ -243,33 +250,43 @@
 			<version>8.0.30</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/org.xhtmlrenderer/flying-saucer-pdf -->
+		<!--
+		https://mvnrepository.com/artifact/org.xhtmlrenderer/flying-saucer-pdf -->
 		<dependency>
 			<groupId>org.xhtmlrenderer</groupId>
 			<artifactId>flying-saucer-pdf</artifactId>
 			<version>9.1.22</version>
 		</dependency>
-		
+
 		<!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-testng -->
-<dependency>
-    <groupId>io.qameta.allure</groupId>
-    <artifactId>allure-testng</artifactId>
-    <version>2.23.0</version>
-</dependency>
+		<dependency>
+			<groupId>io.qameta.allure</groupId>
+			<artifactId>allure-testng</artifactId>
+			<version>2.23.0</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/net.rcarz/jira-client -->
+		<dependency>
+			<groupId>net.rcarz</groupId>
+			<artifactId>jira-client</artifactId>
+			<version>0.5</version>
+		</dependency>
+
 
 	</dependencies>
 
 	<build>
 		<plugins>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.8.1</version>
-				<configuration>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+		        <artifactId>maven-source-plugin</artifactId>
+                <version>3.3.0</version>
+                <configuration>
+                   <!-- put your configurations here -->
 					<source>1.8</source>
-					<target>1.8</target>
-				</configuration>
-			</plugin>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
 
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -285,13 +302,13 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
-				<version>3.0.0-M4</version>
+				<version>3.2.5</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>${xmlFiles}</suiteXmlFile>
+						<suiteXmlFile>testngsuite.xml</suiteXmlFile>
 					</suiteXmlFiles>
 					<systemPropertyVariables>
-						<appURL>${url}</appURL>
+						<appURL>https://demowebshop.tricentis.com</appURL>
 					</systemPropertyVariables>
 				</configuration>
 			</plugin>

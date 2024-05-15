@@ -3,21 +3,21 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <listeners>
     <listener class-name="com.Mohs10.utility.ListenerClass"/>
-    <listener class-name="com.Mohs10.utility.TestallureListener"/>
   </listeners>
-  <test thread-count="5" name="Test_All(failed)">
-    <parameter name="browser" value="Chrome"/>
+  <test thread-count="5" name="TestNG_Report2(failed)">
+    <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="com.Mohs10.TestScripts.Register_Test">
+      <class name="com.Mohs10.TestScripts.HomePage_Login">
         <methods>
           <include name="browserSetup"/>
           <include name="loadConfig"/>
           <include name="methodName"/>
+          <include name="LoginTestCase"/>
           <include name="afterSuite"/>
           <include name="afterClass"/>
-          <include name="UserregisterTestCase"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- com.Mohs10.TestScripts.Register_Test -->
+      </class> <!-- com.Mohs10.TestScripts.HomePage_Login -->
     </classes>
-  </test> <!-- Test_All(failed) -->
+  </test> <!-- TestNG_Report2(failed) -->
 </suite> <!-- Failed suite [Suite] -->

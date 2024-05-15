@@ -23,7 +23,7 @@ public class ExtentReport {
 
 		extent.setSystemInfo("HostName", "Mohs10");
 		extent.setSystemInfo("ProjectName", "Demo Web Shop Project");
-		extent.setSystemInfo("Tester", "Deepika");
+		extent.setSystemInfo("Tester", "Greeshma");
 		extent.setSystemInfo("OS", "Win10");
 		extent.setSystemInfo("Browser", "Multiple browser");
 	}
