@@ -868,3 +868,26 @@
 [com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-08 14:09:45.911 [main] Log - Setting up browser: Edgesg
 [com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-08 14:09:50.293 [main] Log - Setting up browser: Edgesg
 [com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-08 14:09:51.997 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-27 15:59:38.416 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-27 15:59:43.132 [main] Log - Setting up browser: Edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-27 15:59:45.787 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-27 16:00:20.139 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-27 16:00:28.301 [main] Log - Executing test method: LoginTestCase on browser: firefoxsg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2024-05-27 16:00:44.312 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-27 16:00:45.233 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-27 16:00:48.037 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-27 16:00:54.920 [main] Log - Executing test method: PDFreports on browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-27 16:01:41.196 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-05-27 16:01:43.280 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-06-03 17:31:22.726 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-06-03 17:35:12.264 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-06-03 17:38:13.352 [main] Log - Setting up browser: firefoxsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-06-03 17:41:13.931 [main] Log - This is After Suite Methodsg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-06-03 17:48:32.540 [main] Log - Setting up browser: edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-06-03 17:48:37.670 [main] Log - Executing test method: LoginTestCase on browser: edgesg
+[com.Mohs10.utility.Log.endTestCase(Log.java:14)evel] 2024-06-03 17:48:50.346 [main] Log - ===---End of Positive Login Test Case-- TEST END====sg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-06-03 17:48:50.665 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-06-03 17:48:52.209 [main] Log - Setting up browser: edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-06-03 17:48:56.198 [main] Log - Executing test method: PDFreports on browser: edgesg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-06-03 17:49:41.171 [main] Log - Tearing down the WebDriversg
+[com.Mohs10.utility.Log.info(Log.java:19)evel] 2024-06-03 17:49:44.360 [main] Log - This is After Suite Methodsg

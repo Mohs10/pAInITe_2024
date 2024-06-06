@@ -63,7 +63,7 @@
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
-			<version>4.11.0</version>
+			<version>4.21.0</version>
 		</dependency>
 
 		<!--
@@ -71,7 +71,7 @@
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-api</artifactId>
-			<version>4.11.0</version>
+			<version>4.21.0</version>
 		</dependency>
 
 
@@ -311,6 +311,19 @@
 						<appURL>https://demowebshop.tricentis.com</appURL>
 					</systemPropertyVariables>
 				</configuration>
+			</plugin>
+			<!-- OWASP Dependency Check-->
+			<plugin>
+				<groupId>org.owasp</groupId>
+				<artifactId>dependency-check-maven</artifactId>
+				<version>5.3.2</version>
+				<executions>
+					<execution>
+						<goals>
+							<goal>check</goal>
+						</goals>
+					</execution>
+				</executions>
 			</plugin>
 		</plugins>
 

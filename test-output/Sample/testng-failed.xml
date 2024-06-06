@@ -7,7 +7,7 @@
     <listener class-name="com.Mohs10.JiraUtil.TestJiraListeners"/>
   </listeners>
   <test thread-count="5" name="TestNG_Report1(failed)">
-    <parameter name="browser" value="chrome"/>
+    <parameter name="browser" value="firefox"/>
     <classes>
       <class name="com.Mohs10.Reports.New_PDF_Report">
         <methods>
@@ -33,31 +33,4 @@
       </class> <!-- com.Mohs10.TestScripts.HomePage_Login -->
     </classes>
   </test> <!-- TestNG_Report1(failed) -->
-  <test thread-count="5" name="TestNG_Report3(failed)">
-    <parameter name="browser" value="Edge"/>
-    <classes>
-      <class name="com.Mohs10.Reports.New_PDF_Report">
-        <methods>
-          <include name="browserSetup"/>
-          <include name="loadConfig"/>
-          <include name="methodName"/>
-          <include name="afterSuite"/>
-          <include name="PDFreports"/>
-          <include name="afterClass"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.Mohs10.Reports.New_PDF_Report -->
-      <class name="com.Mohs10.TestScripts.HomePage_Login">
-        <methods>
-          <include name="browserSetup"/>
-          <include name="loadConfig"/>
-          <include name="methodName"/>
-          <include name="LoginTestCase"/>
-          <include name="afterSuite"/>
-          <include name="afterClass"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.Mohs10.TestScripts.HomePage_Login -->
-    </classes>
-  </test> <!-- TestNG_Report3(failed) -->
 </suite> <!-- Failed suite [Sample] -->
