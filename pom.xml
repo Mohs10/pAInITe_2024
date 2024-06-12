@@ -30,6 +30,7 @@
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
 			<version>7.10.2</version>
+			<scope>test</scope>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/javax.xml.parsers/jaxp-api -->
@@ -277,41 +278,44 @@
 
 	<build>
 		<plugins>
+			
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
-		        <artifactId>maven-source-plugin</artifactId>
+		<artifactId>maven-source-plugin</artifactId>
                 <version>3.3.0</version>
                 <configuration>
                    <!-- put your configurations here -->
-					<source>1.8</source>
-                    <target>1.8</target>
+			<source>1.8</source>
+                    	<target>1.8</target>
                 </configuration>
             </plugin>
 
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-release-plugin</artifactId>
-				<version>3.0.0-M1</version>
-
-			</plugin>
-			<plugin>
-				<groupId>org.codehaus.mojo</groupId>
-				<artifactId>exec-maven-plugin</artifactId>
-				<version>1.6.0</version>
-			</plugin>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-surefire-plugin</artifactId>
-				<version>3.2.5</version>
-				<configuration>
-					<suiteXmlFiles>
-						<suiteXmlFile>testngsuite.xml</suiteXmlFile>
-					</suiteXmlFiles>
-					<systemPropertyVariables>
-						<appURL>https://demowebshop.tricentis.com</appURL>
-					</systemPropertyVariables>
-				</configuration>
-			</plugin>
+		<plugin>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-release-plugin</artifactId>
+			<version>3.0.0-M1</version>
+		</plugin>
+			
+		<plugin>
+			<groupId>org.codehaus.mojo</groupId>
+			<artifactId>exec-maven-plugin</artifactId>
+			<version>1.6.0</version>
+		</plugin>
+			
+		<plugin>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-surefire-plugin</artifactId>
+			<version>3.2.5</version>
+		<configuration>
+			<suiteXmlFiles>
+				<suiteXmlFile>testngsuite.xml</suiteXmlFile>
+			</suiteXmlFiles>
+			<systemPropertyVariables>
+				<appURL>https://demowebshop.tricentis.com</appURL>
+			</systemPropertyVariables>
+		</configuration>
+		</plugin>
+			
 			<!-- OWASP Dependency Check-->
 			<plugin>
 				<groupId>org.owasp</groupId>
